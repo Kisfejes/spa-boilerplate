@@ -1,0 +1,31 @@
+{
+  "name": "spa-boilerplate",
+  "version": "1.0.0",
+  "description": "Single Page Application boilerplate with nodejs REST API backend, and react frontend",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kisfejes/spa-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kisfejes/spa-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Kisfejes/spa-boilerplate#readme",
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "yargs": "^10.0.3"
+  }
+}
